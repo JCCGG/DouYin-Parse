@@ -2,8 +2,9 @@
 
 ## 构建
 
-1. 安装requirements.txt依赖
-2. 进入项目主目录输入python main.py启动
+1. python 3.10.2
+2. 安装requirements.txt依赖 pip install -r requirements.txt
+3. 进入项目主目录输入python main.py启动
 
 ## 启动
 
