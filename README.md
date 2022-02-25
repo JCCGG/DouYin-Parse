@@ -31,7 +31,7 @@ pyinstaller main.py -F -w -n 打包名
 
 后续增加了正则匹配url，所以通过抖音分享过来的链接可以直接复制进输入框，无需将url链接单独复制出来
 
-![image-20220221215337057](https://github.com/JCCGG/DouYin-Parse/blob/master/screenshot/Snipaste_2022-02-25_10-52-57.png)
+![Snipaste_2022-02-25_11-38-17.png](https://github.com/JCCGG/DouYin-Parse/blob/master/screenshot/Snipaste_2022-02-25_11-38-17.png)
 
 ## 免责声明
 
