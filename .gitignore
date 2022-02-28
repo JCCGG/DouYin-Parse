@@ -1,0 +1,6 @@
+build/
+dist/
+.idea/
+__pycache__
+DouYin-Parse-win64.spec
+README.assets
