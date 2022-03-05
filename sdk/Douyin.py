@@ -81,7 +81,6 @@ class Douyin():
         except Exception as err:
             print('获取视频真实地址错误：'+str(err))
     def getBgImage(self):
-        self.vedioInfo['bgImage']='https://p26-sign.douyinpic.com/tos-cn-p-0015/90c6c6892e2f42f783c460cff2395331_1643435174~tplv-dy-360p.jpeg?x-expires=1647673200&x-signature=xbZWPIBc3HhMQ80niNgxpP52GWc%3D&from=4257465056&se=false&biz_tag=feed_cover&l=202203051538280101940320430F59BC45'
         try:
             if self.vedioInfo['bgImage']!= None and self.vedioInfo['bgImage']!= "":
                 res=requests.get(self.vedioInfo['bgImage'])
