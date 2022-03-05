@@ -2,5 +2,5 @@ build/
 dist/
 .idea/
 __pycache__
-DouYin-Parse-win64.spec
+DouYin-Parse-win64*
 README.assets

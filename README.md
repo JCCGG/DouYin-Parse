@@ -1,4 +1,4 @@
-# 抖音视频解析、抖音无水印高清视频解析、抖音背景音乐解析
+# 抖音视频解析、抖音无水印高清视频解析、抖音背景音乐解析、抖音视频封面解析
 
 ## 构建
 
@@ -6,10 +6,11 @@
 2. 安装requirements.txt文件的依赖库
 
 ~~~python
+cd DouYin-Parse
 pip install -r requirements.txt
 ~~~
 
-3. 进入项目主目录输入命令启动
+3. 输入命令启动
 
 ~~~python
 python main.py
