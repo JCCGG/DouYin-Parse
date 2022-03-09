@@ -34,6 +34,8 @@ pyinstaller main.py -F -w -n 打包名
 
 ![Snipaste_2022-02-25_11-38-17.png](https://github.com/JCCGG/DouYin-Parse/blob/master/screenshot/Snipaste_2022-02-25_11-38-17.png)
 
+另外，为了平时使用手机操作方便，做了一个Web端的请看：<a href="https://github.com/JCCGG/douyin-parse-web">douyin-parse-web<a/>
+
 ## 免责声明
 
 本程序及代码仅供学习参考使用，不得用于非法用途，如项目侵犯了您的利益，请联系删除！
